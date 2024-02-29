@@ -36,7 +36,7 @@ const typeDefs = `
         ): User
       }
 
-      type User {
+    type User {
         _id: ID!
         username: String!
         email: String!
@@ -44,7 +44,7 @@ const typeDefs = `
         savedBooks: [Book]
       }
     
-      type Book {
+    type Book {
         bookId: String!
         authors:[String]
         description: String!
