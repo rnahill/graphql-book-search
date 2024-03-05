@@ -1,4 +1,4 @@
-# GraphGL Book Search
+# GraphQL Book Search
 
 ## Description
 
